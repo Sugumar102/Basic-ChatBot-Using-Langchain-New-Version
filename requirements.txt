@@ -1,0 +1,11 @@
+langchain_core
+langchain
+langchain_community
+fastapi
+streamlit
+ollama
+langchain-google-genai
+dotenv
+langchain-google-vertexai
+langchain-groq
+pytz

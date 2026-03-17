@@ -1,0 +1,20 @@
+[project]
+name = "langchain-new-version"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.135.1",
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.12",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.19",
+    "langchain-google-genai>=4.2.1",
+    "langchain-google-vertexai>=3.2.2",
+    "langchain-groq>=1.1.2",
+    "ollama>=0.6.1",
+    "pytz>=2026.1.post1",
+    "streamlit>=1.55.0",
+]
