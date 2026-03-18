@@ -9,3 +9,5 @@ dotenv
 langchain-google-vertexai
 langchain-groq
 pytz
+pydantic
+typing_extensions

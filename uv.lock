@@ -1177,8 +1177,10 @@ dependencies = [
     { name = "langchain-google-vertexai" },
     { name = "langchain-groq" },
     { name = "ollama" },
+    { name = "pydantic" },
     { name = "pytz" },
     { name = "streamlit" },
+    { name = "typing-extensions" },
 ]
 
 [package.metadata]
@@ -1193,8 +1195,10 @@ requires-dist = [
     { name = "langchain-google-vertexai", specifier = ">=3.2.2" },
     { name = "langchain-groq", specifier = ">=1.1.2" },
     { name = "ollama", specifier = ">=0.6.1" },
+    { name = "pydantic", specifier = ">=2.12.5" },
     { name = "pytz", specifier = ">=2026.1.post1" },
     { name = "streamlit", specifier = ">=1.55.0" },
+    { name = "typing-extensions", specifier = ">=4.15.0" },
 ]
 
 [[package]]
