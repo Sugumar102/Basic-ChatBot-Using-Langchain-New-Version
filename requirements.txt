@@ -11,3 +11,5 @@ langchain-groq
 pytz
 pydantic
 typing_extensions
+beautifulsoup4
+faiss-cpu
